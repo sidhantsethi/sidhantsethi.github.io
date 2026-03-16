@@ -809,7 +809,7 @@ background: #27c93f;
 
 .design-principles {
   display: grid;
-  gap: 18px;
+  gap: 22px;
 }
 
 .principle {
@@ -819,9 +819,9 @@ background: #27c93f;
 }
 
 .principle-icon {
-  width: 40px;
-  height: 40px;
-  min-width: 40px;
+  width: 44px;
+  height: 44px;
+  min-width: 44px;
   object-fit: contain;
 filter: brightness(0) invert(1);
 }
