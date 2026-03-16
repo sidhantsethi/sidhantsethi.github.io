@@ -806,32 +806,21 @@ background: #27c93f;
 .pub-links {
   margin-top: 0.8rem;
 }
-.design-principles{
-  display:grid;
-  gap:16px;
+
+.design-principles {
+  display: grid;
+  gap: 18px;
 }
 
-.principle{
-  display:flex;
-  align-items:center;
-  gap:14px;
+.principle {
+  display: flex;
+  align-items: center;
+  gap: 16px;
 }
 
-.principle-icon{
-  width:26px;
-  height:26px;
+.principle-icon {
+  width: 40px;
+  height: 40px;
+  min-width: 40px;
+  object-fit: contain;
 }
-
-
-.bullet-chip-list span {
-display: flex;
-align-items: center;
-gap: 14px;
-margin-bottom: 12px;
-}
-
-.bullet-chip-list img {
-width: 36px;
-height: 36px;
-}
-
