@@ -806,3 +806,18 @@ background: #27c93f;
 .pub-links {
   margin-top: 0.8rem;
 }
+.design-principles{
+  display:grid;
+  gap:16px;
+}
+
+.principle{
+  display:flex;
+  align-items:center;
+  gap:14px;
+}
+
+.principle-icon{
+  width:26px;
+  height:26px;
+}
