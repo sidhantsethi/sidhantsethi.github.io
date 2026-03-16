@@ -423,6 +423,19 @@ background: #27c93f;
   margin-top: 0;
   margin-bottom: 0.9rem;
 }
+.stack-title {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.stack-heading-icon {
+  width: 22px;
+  height: 22px;
+  object-fit: contain;
+  filter: brightness(0) invert(1);
+  opacity: 0.95;
+}
 .about-card p,
 .project-card p,
 .contact-card p,
