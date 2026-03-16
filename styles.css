@@ -283,10 +283,21 @@ button { font: inherit; }
   margin-bottom: 1rem;
 }
 .code-top span {
-  width: 10px;
-  height: 10px;
-  border-radius: 50%;
-  background: rgba(255,255,255,0.3);
+width: 10px;
+height: 10px;
+border-radius: 50%;
+}
+
+.code-top span:nth-child(1) {
+background: #ff5f56;
+}
+
+.code-top span:nth-child(2) {
+background: #ffbd2e;
+}
+
+.code-top span:nth-child(3) {
+background: #27c93f;
 }
 .code-card code {
   color: #c9ddff;
