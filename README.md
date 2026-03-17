@@ -4,7 +4,7 @@ Full Stack Software Engineer specializing in distributed systems, cloud-native a
 
 ## 🔗 Links
 - 🌐 Portfolio: https://sidhantsethi.github.io
-- 📄 Resume: [Download Resume](./Sidhant_Sethi_Resume.pdf)
+- 📄 Resume: [Download Resume](./assets/resume.pdf)
 
 ## 🧠 Tech Stack
 React, TypeScript, Java, Spring Boot, Kafka, Redis, AWS, Microservices
