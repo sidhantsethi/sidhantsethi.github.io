@@ -1,26 +1,45 @@
-# 🚀 Sidhant Sethi — Full Stack Engineer
+# 👋 Sidhant Sethi
 
-- 🌐 Portfolio: https://sidhantsethi.github.io
+**Full Stack Software Engineer | Distributed Systems | React • Spring Boot • AWS**
 
-## 🔥 Highlights
-
-- Designed scalable e-commerce system handling 5K+ daily transactions
-- Built event-driven microservices using Kafka and Redis
-- Improved system performance by 35%+ using caching and async processing
-- Developed responsive frontend with React + TypeScript
-
-## 🧠 System Design
-
-Includes:
-- Scalable e-commerce architecture
-- Kafka async processing (retries, DLQ, ordering)
-- Redis caching strategy
-- Failure handling and observability
-
-## 🛠 Tech Stack
-
-React • TypeScript • Spring Boot • Kafka • Redis • AWS • PostgreSQL • MySQL
+I build scalable, production-ready systems across frontend, backend, and cloud — with a strong focus on distributed systems, performance optimization, and reliability.
 
 ---
 
-👉 Check out the live site for full case studies and architecture diagrams
+## 🚀 Portfolio
+
+🔗 https://sidhantsethi.github.io
+
+---
+
+## 💡 What I Do
+
+* Build full-stack applications using React, TypeScript, and Spring Boot
+* Design scalable microservices and event-driven systems (Kafka, Redis)
+* Optimize performance and system throughput under high load
+* Deliver production-ready systems on AWS with CI/CD pipelines
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend:** React, TypeScript, JavaScript, Redux Toolkit
+**Backend:** Java, Spring Boot, REST APIs, GraphQL
+**Data & Messaging:** PostgreSQL, MySQL, Redis, Kafka
+**Cloud & DevOps:** AWS, Docker, Kubernetes, Jenkins, GitHub Actions
+
+---
+
+## 📊 Highlights
+
+* 5+ years of software engineering experience
+* Built systems handling 5K+ daily transactions
+* Improved backend throughput by 35%
+* Reduced frontend defects by 45%
+
+---
+
+## 📫 Contact
+
+📧 [sethisidhant02@gmail.com](mailto:sethisidhant02@gmail.com)
+💻 GitHub: https://github.com/sidhantsethi
